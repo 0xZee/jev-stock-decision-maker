@@ -8,7 +8,7 @@ import pandas as pd
 import streamlit as st
 
 from data_fetcher import get_ticker_snapshot, get_market_context, build_state_document
-from jev_client import (run_decision_scoring, run_quick_answer,
+from call_jev import (run_decision_scoring, run_quick_answer,
                         format_api_error, SCORE_MAX)
 from typesafe_sdk import TypeSafeAPIError
 
