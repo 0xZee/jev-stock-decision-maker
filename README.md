@@ -2,7 +2,7 @@
 
 A demo that turns live market data into structured investment decisions using the **TypeSafe Jev** Decision Model (RLCD).
 
-![screen1](src1.png)
+![screen1](src0.png)
 -
 ![screen2](src2.png)
 
